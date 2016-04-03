@@ -1,6 +1,6 @@
 *.html
 img
-
+.DS_Store
 
 # Logs
 logs
