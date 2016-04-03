@@ -1,3 +1,5 @@
+default.json
+*.env
 *.html
 img
 .DS_Store
