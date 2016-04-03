@@ -1,6 +1,7 @@
 *.html
 img
 .DS_Store
+nodejs.jp
 
 # Logs
 logs
