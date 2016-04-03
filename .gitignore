@@ -3,6 +3,8 @@ img
 .DS_Store
 nodejs.jp
 *.txt
+*.png
+*.jpg
 
 # Logs
 logs
