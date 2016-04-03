@@ -2,6 +2,7 @@
 img
 .DS_Store
 nodejs.jp
+*.txt
 
 # Logs
 logs
