@@ -1,0 +1,8 @@
+*.gz
+*ubyte
+image
+*.csv
+*.pgm
+*.svm
+*.model
+!*.html
